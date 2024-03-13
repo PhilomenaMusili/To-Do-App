@@ -29,3 +29,7 @@ def updateTask(request, pk):
     
     context = {'form': form}
     return render(request, 'tasks/update_tasks.html', context)
+
+def deleteTask(request, pk):
+    return render(request, 'tasks/delete.html')
+
