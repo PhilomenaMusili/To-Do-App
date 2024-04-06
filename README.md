@@ -1,6 +1,9 @@
 # To Do App
 Welcome to my To Do App
 
+## Preview
+This is how the app looks like
+
 ## About 
 
 You're all set! Feel free to explore within the repository. Dive into the code, experiment, and learn at your own pace.
