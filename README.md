@@ -2,7 +2,7 @@
 Welcome to my To Do App
 
 ## Preview
-This is how the app looks like
+
 
 ## About 
 
