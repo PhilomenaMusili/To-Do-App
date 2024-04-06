@@ -1,12 +1,12 @@
 # To Do App
-Welcome to my To Do App
+Welcome to my To Do App.
 
 ## Preview
 
 
 ## About 
 
-You're all set! Feel free to explore within the repository. Dive into the code, experiment, and learn at your own pace.
+You're all set! Feel free to explore within the repository. Dive into the code, experiment, and learn at your own pace.This is a begginer friendly to do app
 
 
 ## Contribution 
