@@ -6,7 +6,7 @@ Welcome to my To Do App.
 
 ## About 
 
-You're all set! Feel free to explore within the repository. Dive into the code, experiment, and learn at your own pace.This is a begginer friendly to do app
+You're all set! Feel free to explore within the repository. Dive into the code, experiment, and learn at your own pace.This is a begginer friendly to do app.You've got this.
 
 
 ## Contribution 
