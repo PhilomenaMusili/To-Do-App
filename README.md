@@ -1,4 +1,6 @@
 # To Do App
+Hello devs, 
+
 Welcome to my To Do App.
 
 ## Preview
